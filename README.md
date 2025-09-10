@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m a student at Indian Institute of Information Technology(IIIT),Kottayam<br>👯 I’m looking to collaborate on MERN PERN Stack web development and AI/ML<br>🤝 I’m looking for help with internship and hackathons<br>🌱 I’m currently learning about AI
+# 💫 About Me  
+
+👋 Hey there! I’m **Vigil Das**, a curious learner and tech enthusiast currently pursuing my studies at the **Indian Institute of Information Technology (IIIT), Kottayam**.  
+
+✨ My interests revolve around building impactful solutions with the **MERN & PERN stacks** and exploring the fascinating world of **Artificial Intelligence & Machine Learning**.  
+
+🚀 What I’m up to:  
+- 🔭 Sharpening my skills in **AI/ML** and full-stack web development  
+- 👯 Open to collaborating on **innovative web projects** and **AI/ML applications**  
+- 🤝 Actively looking for opportunities in **internships** and **hackathons** to learn, grow, and contribute  
+- 🌱 Constantly learning and experimenting to push my boundaries  
+
+💡 I believe in building, breaking, and rebuilding until something meaningful comes out of it!  
+
 
 
 ## 🌐 Socials:
