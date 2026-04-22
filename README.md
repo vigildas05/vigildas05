@@ -1,3 +1,5 @@
+<img width="496" height="368" alt="ezgif-55db635b300f92c3" src="https://github.com/user-attachments/assets/790a3337-ba82-402d-a02a-5e039aeaf689" />
+
 # 💫 About Me  
 
 👋 Hey there! I’m **Vigil Das**, a curious learner and tech enthusiast currently pursuing my studies at the **Indian Institute of Information Technology (IIIT), Kottayam**.  
